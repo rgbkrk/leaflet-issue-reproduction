@@ -1,0 +1,23 @@
+{
+  "name": "leaflet-issue-reproduction",
+  "version": "1.0.0",
+  "description": "Repository for reproducing https://github.com/Leaflet/Leaflet/issues/4823",
+  "main": "reproduce.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rgbkrk/leaflet-issue-reproduction.git"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/rgbkrk/leaflet-issue-reproduction/issues"
+  },
+  "homepage": "https://github.com/rgbkrk/leaflet-issue-reproduction#readme",
+  "dependencies": {
+    "jsdom": "^9.5.0",
+    "leaflet": "^1.0.0"
+  }
+}
